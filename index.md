@@ -1,7 +1,7 @@
 
-# Avtej RHyner's Portfolio
+# Avtej Rhyner's Portfolio
 
-I am Avtej Rhhyner and I am a computer science major who plans to hopefully graduate in 2028.
+I am Avtej Rhyner and I am a computer science major who plans to hopefully graduate in 2028.
 
 ## Favorite labs from CPSC120L
 
@@ -11,8 +11,8 @@ This was my favorite lab because I found it satisfying creating loops to create 
 
 Lab 6, Part 2
 
-This was also another one of my favorite labs because I was introduced to a new concept not just in computer science but also a new game called blackjack. I found it a very interesting, fun, and easy lab. 
+This was also another one of my favorite labs because I was introduced to a new concept not just in computer science but also a new game called blackjack. It required a lot of if statements and that really helped me get used to doing those.I found it a very interesting, fun, and easy lab
 
 Lab 2
 
-Lab 2 was one of those labs that I found as a very good way to introduce me to the c++ language. I felt that this introductory assignment really opened up my thoughts about coding and I couldn’t stop thinking about how much more I could achieve with the c++ language.
+Lab 2 was one of those labs that I found as a very good way to introduce me to the c++ language. The lab required us to write a sentences using basic strings and std::cout and cin's as well. I felt that this introductory assignment really opened up my thoughts about coding and I couldn’t stop thinking about how much more I could achieve with the c++ language.

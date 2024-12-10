@@ -11,7 +11,7 @@ This was my favorite lab because I found it satisfying creating loops to create 
 
 Lab 6, Part 2
 
-This was also another one of my favorite labs because I was introduced to a new concept not just in computer science but also a new game called blackjack. It required a lot of if statements and that really helped me get used to doing those.I found it a very interesting, fun, and easy lab
+This was also another one of my favorite labs because I was introduced to a new concept not just in computer science but also a new game called blackjack. It required a lot of if statements and that really helped me get used to doing those. I found it a very interesting, fun, and easy lab.
 
 Lab 2
 
